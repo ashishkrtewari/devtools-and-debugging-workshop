@@ -15,11 +15,13 @@ header {
   margin: 1rem 4rem;
   font-size: 2rem;
 }
+
 header a,
 header a:visited {
   color: #fff;
   text-decoration: none;
 }
+
 header p {
   font-size: 1.25rem;
   font-weight: bold;
